@@ -1,0 +1,20 @@
+{
+  "fragances": [
+    {
+      "name": "Gucci Guilty",
+      "price": "$105.00"
+    },
+    {
+     "name": "Flora By Gucci Eau Fraiche",
+     "price": "$90.00"
+    },
+    {
+     "name": "Omnia Eau de Toilette 65ml",
+     "price": "$70.00"
+    },
+    {
+     "name": "Secret Obsession Perfume",
+     "price": "$92.00"
+    }
+  ]
+}
